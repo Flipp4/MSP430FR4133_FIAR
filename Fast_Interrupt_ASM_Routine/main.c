@@ -1,6 +1,7 @@
 #include "msp430fr4133.h"
 
 int UCMp_Init(void);
+int collect(int counter);
 
 
 /**
@@ -16,5 +17,10 @@ int main(void)
 }
 
 int UCMp_Init(void){
+
+
+}
+
+int collect(int counter){
 
 }
