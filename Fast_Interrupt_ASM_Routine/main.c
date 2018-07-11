@@ -18,6 +18,7 @@ int main(void)
 
 int UCMp_Init(void){
 
+    /* using VLO-based DCO <1Mhz */
 
 }
 
